@@ -28,7 +28,7 @@ from sklearn.neighbors import KNeighborsClassifier
 
 
 # knn is the name of the estimator. Other common names include clf
-# for clasifier
+# for classifier
 
 knn = KNeighborsClassifier(n_neighbors=1) 
 
